@@ -1,0 +1,21 @@
+{
+  "name": "pinboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyjm2010/pinboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "kyjm2010.github.io/pinboard",
+  "bugs": {
+    "url": "https://github.com/kyjm2010/pinboard/issues"
+  },
+  "homepage": "https://github.com/kyjm2010/pinboard#readme"
+}
